@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Update;
 /**
  * 文章表(Article)表数据库访问层
  *
- * @author makejava
+ * @author TELClown
  * @since 2023-06-30 15:30:15
  */
 @Mapper

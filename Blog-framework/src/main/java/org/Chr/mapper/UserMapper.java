@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Select;
 /**
  * 用户表(User)表数据库访问层
  *
- * @author makejava
+ * @author TELClown
  * @since 2023-07-02 14:06:37
  */
 @Mapper

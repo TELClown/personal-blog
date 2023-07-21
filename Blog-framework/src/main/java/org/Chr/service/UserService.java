@@ -8,7 +8,7 @@ import org.Chr.domain.entity.User;
 /**
  * 用户表(User)表服务接口
  *
- * @author makejava
+ * @author TELClown
  * @since 2023-07-04 15:10:15
  */
 public interface UserService extends IService<User> {

@@ -19,6 +19,7 @@ public class updateViewCountJob {
     @Resource
     ArticleMapper articleMapper;
     @Scheduled(cron = "0/59 * * * * ?")
+    //定时任务，每分钟将redis中的数据同步至mysql中
     public void updateViewCount(){
         Map<String, Integer> viewCountMap = redisCache.getCacheMap("article:viewCount");
         Set<String> articleId = viewCountMap.keySet();

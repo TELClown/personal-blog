@@ -11,7 +11,7 @@ import com.baomidou.mybatisplus.annotation.TableName;
 /**
  * 友链(Link)表实体类
  *
- * @author makejava
+ * @author TELClown
  * @since 2023-07-01 17:54:57
  */
 @SuppressWarnings("serial")

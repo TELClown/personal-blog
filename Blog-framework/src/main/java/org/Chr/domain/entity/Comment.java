@@ -16,7 +16,7 @@ import lombok.experimental.Accessors;
 /**
  * 评论表(Comment)表实体类
  *
- * @author makejava
+ * @author TELClown
  * @since 2023-07-03 14:22:58
  */
 @SuppressWarnings("serial")

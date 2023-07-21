@@ -7,7 +7,7 @@ import org.Chr.domain.entity.Comment;
 /**
  * 评论表(Comment)表数据库访问层
  *
- * @author makejava
+ * @author TELClown
  * @since 2023-07-03 14:22:57
  */
 public interface CommentMapper extends BaseMapper<Comment> {

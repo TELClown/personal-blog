@@ -13,7 +13,7 @@ import lombok.experimental.Accessors;
 /**
  * 文章表(Article)表实体类
  *
- * @author makejava
+ * @author TELClown
  * @since 2023-06-30 15:29:27
  */
 @SuppressWarnings("serial")

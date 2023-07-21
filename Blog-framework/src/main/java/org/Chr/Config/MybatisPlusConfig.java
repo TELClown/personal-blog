@@ -5,11 +5,9 @@ import com.baomidou.mybatisplus.extension.plugins.inner.PaginationInnerIntercept
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * @Author 三更  B站： https://space.bilibili.com/663528522
- */
+
 @Configuration
-public class MbatisPlusConfig {
+public class MybatisPlusConfig {
 
     /**
      * 3.4.0之后版本

@@ -2,9 +2,6 @@ package org.Chr.exception;
 
 import org.Chr.domain.Enum.AppHttpCodeEnum;
 
-/**
- * @Author 三更  B站： https://space.bilibili.com/663528522
- */
 public class SystemException extends RuntimeException{
 
     private int code;

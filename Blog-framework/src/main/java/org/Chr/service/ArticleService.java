@@ -7,7 +7,7 @@ import org.Chr.domain.entity.Article;
 /**
  * 文章表(Article)表服务接口
  *
- * @author makejava
+ * @author TELClown
  * @since 2023-06-30 15:30:18
  */
 public interface ArticleService extends IService<Article> {

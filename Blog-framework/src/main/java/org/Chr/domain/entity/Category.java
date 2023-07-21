@@ -11,7 +11,7 @@ import com.baomidou.mybatisplus.annotation.TableName;
 /**
  * 分类表(Category)表实体类
  *
- * @author makejava
+ * @author TELClown
  * @since 2023-07-01 13:43:01
  */
 @SuppressWarnings("serial")

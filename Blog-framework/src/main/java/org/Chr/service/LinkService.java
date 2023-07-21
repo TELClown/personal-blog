@@ -8,7 +8,7 @@ import org.Chr.domain.entity.Link;
 /**
  * 友链(Link)表服务接口
  *
- * @author makejava
+ * @author TELClown
  * @since 2023-07-01 17:54:58
  */
 public interface LinkService extends IService<Link> {
