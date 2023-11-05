@@ -1,6 +1,6 @@
 # personal-blog
 
-##项目说明
+## 项目说明
 
 该项目为个人博客项目，使用SpringBoot，MybatisPlus，SpringSecurity，Redis完成
 
